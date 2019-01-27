@@ -4,14 +4,22 @@ title: Course Administration
 published: true
 ---
 
-* **Course time**: 4-5:20 PM Tu / Thurs
-* **Location**: 
+* **Course time**: 4-5:20PM Tu / Thurs 
+* **Location**: Frey Hall Room 104
 * **Instructor**: Rob Patro
 * **Graduate TAs**: 
     * TBA
-    * TBA
+    
 * **Undergraduate TAs**: 
-    * TBA
+    * Omar Amin (office hour TBA)
+    * Freeman Lou (office hour TBA)
+    * William Zhang (office hour TBA)
 
 * **Office Hours**:
-    * Rob (NCS 259): TBA
+    * Rob Patro (NCS 259): 10 -- 11:30 AM Tu / Thurs
+    * Omar Amin (TBA)
+    * Freeman Lou (TBA)
+    * William Zhang (TBA)
+    
+* **Piazza**:
+    * https://piazza.com/class/jqgrpdiu4sxxz
