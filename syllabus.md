@@ -63,62 +63,66 @@ yourself with it.
 Topics & Schedule (tentative; from previous year)
 ====================================
 
-The following is a list of the topics I intend to cover this semester.  This list is _tentative_, and is subject to revision based on how quickly we make progress.
+The following is a list of the topics I intend to cover this semester.  This list is _tentative_, and is subject to revision based on how slowly or quickly we make progress.
 
-* Week 1 (Jan 22.)
+* Week 1 (Jan 28.)
    - Introduction, administration, what are algorithms? Algorithmic thinking.
    - Stable Matching (proof of correctness, analyzing termination, etc.).
    
-* Week 2 (Jan 29.)
+* Week 2 (Feb 4.)
    - Landau notation (Big O and friends), worst-case analysis (Ch 2).
    - Introduction to graphs / graph search (Ch 3).
 
-* Week 3 (Feb 5.)
+* Week 3 (Feb 11.)
    - Greedy algorithms I 
    - interval scheduling
    - shortest path, MST
 
-* Week 4 (Feb 12.)
+* Week 4 (Feb 18.)
    - Greedy algorithms II
-   - union/find, clustering, Huffman codes
+   - union/find, clustering
    
-* Week 5 (Feb 19.)
-   - Midterm 1
+* Week 5 (Feb 25.)
    - Divide-and-Conquer I
+   - *NOTE*: No class or professor office hours on Feb 28
 
-* Week 6 (Feb 26.)
+* Week 6 (Mar 4.)
    - Divide-and-Conquer I cont. (sorting and selection)
    - Divide-and-Conquer II (integer multiplicationl, matrix multiplication)
+   - **Midterm 1 (March 7)**
    
-* Week 7 (Mar 5.)
+* Week 7 (Mar 11.)
    - Dynamic Programming I (weighted interval scheduling)
    
-* Week 8 (Mar 12.)
-   - Dynamic Programming II (string alignment / edit distance, RNA-folding)
+* Week 8 (Mar 18.)
+   - Dynamic Programming II (string alignment / edit distance)
       
-* Week 9 (Mar 19.)
+* Week 9 (Mar 25.)
    - Dynamic Programming III (linear space alignment, shortest paths in a graph)
    
 * Week 10 (Mar 26.)
-   - Midterm 2
    - Viterbi (tentative)
-
-* Week 11 (Apr 2.)
    - Network Flow I (Flow graphs, Max Flow / Min Cut)
+   
+* Week 11 (Apr 1.)
    - Network Flow II (Circulations with demands)
 
-* Week 12 (Apr 9.)
+* Week 12 (Apr 8.)
    - Network Flow III (Applications: Bipartite matching, disjoint paths, etc.)
-
-* Week 13 (Apr 16.)
+   - **Midterm 2 (April 11)** 
+   
+* Week 13 (Apr 15.)
    - Computational tractability, NP-hardness & NP-completeness
    - NP-complete problems & polynomial time reductions
    
-* Week 14 (Apr 23.)
+* Week 14 (Apr 22.)
    - Approximation algorithms 
    - Set /vertex cover, knapsack
    
-* Week 15 (Apr 30.)
-  - Review and wrap-up **Final day of class**: Friday, May 4, 2018 (May the fourth be with you)
+* Week 15 (Apr 29.)
+  - Hashing and Randomized Algorithms
+
+* Week 16 (May 6.)
+  - Review and wrap-up **Final day of class**: Friday, May 9, 2019 
   
-* **Final Exam**: Monday May 14, 2018 (2:15PM &mdash; 5:00PM).  
+* **Final Exam**: Monday May 20, 2019 (5:30PM &mdash; 8:00PM).  
