@@ -7,9 +7,11 @@ published: true
 * **Lecture Notes**:
     * [Lecture 1][1]
     * [Lecture 2][2]
+    * [Lecture 3][3]
 
 
 
 
 [1]:{{ site.url }}/notes/Lec1.pdf
 [2]:{{ site.url }}/notes/Lec2.pdf
+[3]:{{ site.url }}/notes/Lec3.pdf
