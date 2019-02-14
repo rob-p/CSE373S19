@@ -29,7 +29,7 @@ published: true
     * Mehul Jain : Mon. 1:15--2:15PM
     * Sunny Shah : Wed. 2:30--3:30PM
     * Rahul Rohra : Thurs. 11:30--12:30PM
-    * William Zhang : (TBD)
+    * William Zhang : Thurs. 11:30--12:30PM
     
 * **Piazza**:
     * https://piazza.com/class/jqgrpdiu4sxxz
