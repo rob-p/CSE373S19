@@ -7,4 +7,4 @@ published: true
 Homework Assignments
 =========================
 
-No homework assignments have been posted at this time.
+ * Homework 1 covers asymptotic analysis and greedy algorithms.  It has been posted on Blackboard and is due by 11:59PM on Tues. Feb. 26.
