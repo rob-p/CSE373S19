@@ -10,6 +10,7 @@ published: true
     * [Lecture 3 -- graphs and graph algos][3]
     * [Lecture 4 -- DAGs and scheduling algos][4]
     * [Lecture 5 -- Single-source shortest path and MST][5]
+    * [Lecture 6 -- More MST, Clustering & Divide-and-Conquer][6]
 
 
 
@@ -19,3 +20,4 @@ published: true
 [3]:{{ site.url }}/notes/Lec3.pdf
 [4]:{{ site.url }}/notes/Lec4.pdf
 [5]:{{ site.url }}/notes/Lec5.pdf
+[6]:{{ site.url }}/notes/Lec6.pdf
