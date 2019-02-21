@@ -11,6 +11,7 @@ published: true
     * [Lecture 4 -- DAGs and scheduling algos][4]
     * [Lecture 5 -- Single-source shortest path and MST][5]
     * [Lecture 6 -- More MST, Clustering & Divide-and-Conquer][6]
+    * [Lecture 7 -- D&C multiplication and suffix array construction][7]
 
 
 
@@ -21,3 +22,4 @@ published: true
 [4]:{{ site.url }}/notes/Lec4.pdf
 [5]:{{ site.url }}/notes/Lec5.pdf
 [6]:{{ site.url }}/notes/Lec6.pdf
+[7]:{{ site.url }}/notes/Lec7.pdf
