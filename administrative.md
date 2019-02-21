@@ -8,6 +8,7 @@ published: true
 * **Location**: Frey Hall Room 104
 * **Instructor**: Rob Patro
 * **Graduate TAs**: 
+    * Jamshed Kahn
     * Mohit Choudhary
     * Peiyi Hou
     * Mehul Jain
@@ -22,6 +23,7 @@ published: true
 * **Office Hours**:
     * Rob Patro (NCS 259): 10 -- 11:30 AM Tu / Thurs
     * **NOTE**: All TA office hours are in the CS TA room; 2217 **old** Computer Science
+    * Jamshed Kahn : Wed. 3:45--4:45PM
     * Omar Amin : Mon. 3--4PM 
     * Freeman Lou : Tues. 2:30--3:30PM 
     * Peiyi Hou : Mon. 3--4PM
