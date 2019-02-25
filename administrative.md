@@ -9,11 +9,12 @@ published: true
 * **Instructor**: Rob Patro
 * **Graduate TAs**: 
     * Jamshed Kahn
-    * Mohit Choudhary
+    * ~Mohit Choudhary~
     * Peiyi Hou
     * Mehul Jain
     * Rahul Rohra
     * Sunny Shah
+    * Yimin Zhu
     
 * **Undergraduate TAs**: 
     * Omar Amin 
@@ -27,11 +28,12 @@ published: true
     * Omar Amin : Mon. 3--4PM 
     * Freeman Lou : Tues. 2:30--3:30PM 
     * Peiyi Hou : Mon. 3--4PM
-    * Mohit Choudhary : Wed. 2--3PM
+    * ~Mohit Choudhary : Wed. 2--3PM~
     * Mehul Jain : Mon. 1:15--2:15PM
     * Sunny Shah : Wed. 2:30--3:30PM
     * Rahul Rohra : Thurs. 11:30--12:30PM
     * William Zhang : Thurs. 11:30--12:30PM
+    * Yimin Zhu : Wed. 1--2PM
     
 * **Piazza**:
     * https://piazza.com/class/jqgrpdiu4sxxz
