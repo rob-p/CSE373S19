@@ -12,6 +12,7 @@ published: true
     * [Lecture 5 -- Single-source shortest path and MST][5]
     * [Lecture 6 -- More MST, Clustering & Divide-and-Conquer][6]
     * [Lecture 7 -- D&C multiplication and suffix array construction][7]
+    * [Lecture 8 -- Introduction to DP & weighted interval scheduling][8]
 
 
 
@@ -23,3 +24,4 @@ published: true
 [5]:{{ site.url }}/notes/Lec5.pdf
 [6]:{{ site.url }}/notes/Lec6.pdf
 [7]:{{ site.url }}/notes/Lec7.pdf
+[8]:{{ site.url }}/notes/Lec8.pdf
