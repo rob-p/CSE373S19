@@ -13,6 +13,8 @@ published: true
     * [Lecture 6 -- More MST, Clustering & Divide-and-Conquer][6]
     * [Lecture 7 -- D&C multiplication and suffix array construction][7]
     * [Lecture 8 -- Introduction to DP & weighted interval scheduling][8]
+    * MIDTERM 1
+    * [Lecture 9 -- Edit distance and sequence alignment][9]
 
 
 
@@ -25,3 +27,4 @@ published: true
 [6]:{{ site.url }}/notes/Lec6.pdf
 [7]:{{ site.url }}/notes/Lec7.pdf
 [8]:{{ site.url }}/notes/Lec8.pdf
+[9]:{{ site.url }}/notes/Lec9.pdf
