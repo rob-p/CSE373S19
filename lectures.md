@@ -15,6 +15,7 @@ published: true
     * [Lecture 8 -- Introduction to DP & weighted interval scheduling][8]
     * MIDTERM 1
     * [Lecture 9 -- Edit distance and sequence alignment][9]
+    * [Lecture 10 -- Alignment with general gap penalties and in linear space][10]
 
 
 
@@ -28,3 +29,4 @@ published: true
 [7]:{{ site.url }}/notes/Lec7.pdf
 [8]:{{ site.url }}/notes/Lec8.pdf
 [9]:{{ site.url }}/notes/Lec9.pdf
+[10]:{{ site.url }}/notes/Lec10.pdf
