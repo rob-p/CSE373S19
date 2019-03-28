@@ -16,6 +16,8 @@ published: true
     * MIDTERM 1
     * [Lecture 9 -- Edit distance and sequence alignment][9]
     * [Lecture 10 -- Alignment with general gap penalties and in linear space][10]
+    * [Lecture 11 -- General shortest paths and Bellman Ford][11]
+    * [Lecture 12 -- Intro to Max Flow and FF algorithm][12]
 
 
 
@@ -30,3 +32,5 @@ published: true
 [8]:{{ site.url }}/notes/Lec8.pdf
 [9]:{{ site.url }}/notes/Lec9.pdf
 [10]:{{ site.url }}/notes/Lec10.pdf
+[11]:{{ site.url }}/notes/Lec11.pdf
+[12]:{{ site.url }}/notes/Lec12.pdf
