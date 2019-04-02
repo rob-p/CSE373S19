@@ -18,6 +18,7 @@ published: true
     * [Lecture 10 -- Alignment with general gap penalties and in linear space][10]
     * [Lecture 11 -- General shortest paths and Bellman Ford][11]
     * [Lecture 12 -- Intro to Max Flow and FF algorithm][12]
+    * [Lecture 13 -- EK and Maximum Bipartite Matching][13]
 
 
 
@@ -34,3 +35,4 @@ published: true
 [10]:{{ site.url }}/notes/Lec10.pdf
 [11]:{{ site.url }}/notes/Lec11.pdf
 [12]:{{ site.url }}/notes/Lec12.pdf
+[13]:{{ site.url }}/notes/Lec13.pdf
