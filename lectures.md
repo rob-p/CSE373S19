@@ -20,6 +20,7 @@ published: true
     * [Lecture 12 -- Intro to Max Flow and FF algorithm][12]
     * [Lecture 13 -- EK and Maximum Bipartite Matching][13]
     * [Lecture 14 -- Disjoint Paths and Circulation with Demands][14]
+    * [Lecture 15 -- Complexity and NP-completeness][15]
 
 
 
@@ -37,3 +38,4 @@ published: true
 [12]:{{ site.url }}/notes/Lec12.pdf
 [13]:{{ site.url }}/notes/Lec13.pdf
 [14]:{{ site.url }}/notes/Lec14.pdf
+[15]:{{ site.url }}/notes/Lec15.pdf
