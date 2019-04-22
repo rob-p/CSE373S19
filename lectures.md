@@ -21,7 +21,7 @@ published: true
     * [Lecture 13 -- EK and Maximum Bipartite Matching][13]
     * [Lecture 14 -- Disjoint Paths and Circulation with Demands][14]
     * [Lecture 15 -- Complexity and NP-completeness][15]
-    * [Lecture 16 -- Complexity and NP-completeness 2][15]
+    * [Lecture 16 -- Complexity and NP-completeness 2][16]
 
 
 
