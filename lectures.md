@@ -25,6 +25,7 @@ published: true
     * [Lecture 17 -- Complexity and NP-completeness 3][17]
     * [Lecture 18 -- Approximation Algorithms 1][18]
     * [Lecture 19 -- Approximation Algorithms 2][19]
+    * [Lecture 20 -- Other topics and wrap-up][20]
 
 
 
@@ -49,3 +50,4 @@ published: true
 [17]:{{ site.url }}/notes/Lec17.pdf
 [18]:{{ site.url }}/notes/Lec18.pdf
 [19]:{{ site.url }}/notes/Lec19.pdf
+[20]:{{ site.url }}/notes/Lec20.pdf
